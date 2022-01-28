@@ -3,7 +3,7 @@ email:              defilipm@mcmaster.ca
 description:        My Personal Portfolio
 author:             Marcello De Filippis
 baseurl:            ""
-url:                "http://localhost:4000/"
+url:                "http://marcellod.tech"
 
 # Social Profiles
 github_username:   MarcelloDe
