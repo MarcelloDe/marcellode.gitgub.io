@@ -1,0 +1,23 @@
+title:              Marcello    De Filippis
+email:              defilipm@mcmaster.ca
+description:        My Personal Portfolio
+author:             Marcello De Filippis
+baseurl:            ""
+url:                "http://localhost:4000/"
+
+# Social Profiles
+github_username:   MarcelloDe
+linkedin_username: marcellodefilippis/
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+theme: jekyll-theme-clean-blog
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
