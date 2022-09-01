@@ -4,7 +4,7 @@ title: "12 Rules of Life By Jordan Peterson"
 subtitle: "Book Summary"
 date: 2022-01-27 15:42
 ---
-<h2>RULE 1 / Stand up straight with your shoulders back</h2>
+<h2>RULE 1 / Stand up straight with your shoulders back TEST change</h2>
 J.P gives a evolutionary explanation about how the lobsters who display the most power are the ones who live the longest, mate more, and live better overall. The opposite is true for the weak lobsters. The lobsters who win will go on displaying their confidence and can easily scare away the weak lobsters without even having to flex their strength. The weak lobsters remember their losses and reshape their brain and posture as if they are now ‘loser’ lobsters. Human are no different. People like lobsters, size each other up. 
 “There are many system of interactions between brain, body, and social world that can get caught in a positive feedback loop. Depressed people, can start feeling useless and burdensome,as well as grief stricken and pained. This makes them withdraw contact from friends and family. Then the withdrawl makes them more lonesome and isolated, and more likely to feel useless and burdensome. They then withdraw more. In this manner, depression spirals and amplifies.”
 The damage done by bullying can continue into the future. In complex cases, a habitual assumption of subordination renders the person more stressed and uncertain than is necessary, and their habitually submissive posturing continues to attract genuine negative attention from the ‘bullies’ in life. 
